@@ -11,7 +11,7 @@ class ApkIconChanger:
         ctk.set_default_color_theme("green")
         
         self.root = ctk.CTk()
-        self.root.title("SR APK Tool")
+        self.root.title("Firefly APK Tool")
         self.root.geometry("800x600")
         
         # Thêm logo
