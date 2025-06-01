@@ -4,6 +4,7 @@
 
 This tool allows you to modify an Android APK file with the following functionalities:
 
+[Tutorial](https://www.youtube.com/watch?v=-KPuJTAiXRI)
 1. **APK Selection & Extraction (Tab 1)**
 
    * Select your APK file.
